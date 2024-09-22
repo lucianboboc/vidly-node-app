@@ -1,0 +1,407 @@
+{"level":"info","message":"Connected to MongoDB..."}
+{"date":"Sun Sep 08 2024 00:51:03 GMT+0200 (Central European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: Missing JWT_SIGN_KEY\nError: Missing JWT_SIGN_KEY\n    at module.exports (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/startup/config.js:4:9)\n    at Object.<anonymous> (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/index.js:11:1)\n    at Module._compile (node:internal/modules/cjs/loader:1455:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1534:10)\n    at Module.load (node:internal/modules/cjs/loader:1265:32)\n    at Module._load (node:internal/modules/cjs/loader:1081:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:187:14)\n    at node:internal/main/run_main_module:28:49","os":{"loadavg":[3.42041015625,3.49658203125,3.24267578125],"uptime":221477},"process":{"argv":["/Users/lucianboboc/.nvm/versions/node/v22.0.0/bin/node","/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/index.js"],"cwd":"/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly","execPath":"/Users/lucianboboc/.nvm/versions/node/v22.0.0/bin/node","gid":20,"memoryUsage":{"arrayBuffers":36507943,"external":38716599,"heapTotal":63963136,"heapUsed":33472928,"rss":102907904},"pid":53953,"uid":501,"version":"v22.0.0"},"stack":"Error: Missing JWT_SIGN_KEY\n    at module.exports (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/startup/config.js:4:9)\n    at Object.<anonymous> (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/index.js:11:1)\n    at Module._compile (node:internal/modules/cjs/loader:1455:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1534:10)\n    at Module.load (node:internal/modules/cjs/loader:1265:32)\n    at Module._load (node:internal/modules/cjs/loader:1081:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:187:14)\n    at node:internal/main/run_main_module:28:49","trace":[{"column":9,"file":"/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/startup/config.js","function":"module.exports","line":4,"method":"exports","native":false},{"column":1,"file":"/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/index.js","function":null,"line":11,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1455,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1534,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1265,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1081,"method":"_load","native":false},{"column":14,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":187,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"date":"Sun Sep 08 2024 00:57:04 GMT+0200 (Central European Summer Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: Missing JWT_SIGN_KEY\nError: Missing JWT_SIGN_KEY\n    at module.exports (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/startup/config.js:4:9)\n    at Object.<anonymous> (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/index.js:12:1)\n    at Module._compile (node:internal/modules/cjs/loader:1455:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1534:10)\n    at Module.load (node:internal/modules/cjs/loader:1265:32)\n    at Module._load (node:internal/modules/cjs/loader:1081:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:187:14)\n    at node:internal/main/run_main_module:28:49","os":{"loadavg":[2.31640625,3.2685546875,3.26220703125],"uptime":221838},"process":{"argv":["/Users/lucianboboc/.nvm/versions/node/v22.0.0/bin/node","/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/index.js"],"cwd":"/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly","execPath":"/Users/lucianboboc/.nvm/versions/node/v22.0.0/bin/node","gid":20,"memoryUsage":{"arrayBuffers":36507944,"external":38716600,"heapTotal":61865984,"heapUsed":39545296,"rss":105005056},"pid":54093,"uid":501,"version":"v22.0.0"},"stack":"Error: Missing JWT_SIGN_KEY\n    at module.exports (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/startup/config.js:4:9)\n    at Object.<anonymous> (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/index.js:12:1)\n    at Module._compile (node:internal/modules/cjs/loader:1455:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1534:10)\n    at Module.load (node:internal/modules/cjs/loader:1265:32)\n    at Module._load (node:internal/modules/cjs/loader:1081:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:187:14)\n    at node:internal/main/run_main_module:28:49","trace":[{"column":9,"file":"/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/startup/config.js","function":"module.exports","line":4,"method":"exports","native":false},{"column":1,"file":"/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/index.js","function":null,"line":12,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1455,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1534,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1265,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1081,"method":"_load","native":false},{"column":14,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":187,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"random33fid\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"random33fid\" (type string) at path \"_id\" for model \"Genre\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"random33fid\" (type string) at path \"_id\" for model \"Genre\"\n    at SchemaObjectId.Object.<anonymous>.SchemaObjectId.cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/cast.js:379:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4868:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2265:10)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2589:8)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17","stringValue":"\"random33fid\"","value":"random33fid","valueType":"string"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"random33fid\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"random33fid\" (type string) at path \"_id\" for model \"Genre\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"random33fid\" (type string) at path \"_id\" for model \"Genre\"\n    at SchemaObjectId.Object.<anonymous>.SchemaObjectId.cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/cast.js:379:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4868:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2265:10)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2589:8)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17","stringValue":"\"random33fid\"","value":"random33fid","valueType":"string"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"error","message":"Client must be connected before running operations Client must be connected before running operations","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperation (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/operations/execute_operation.ts:71:13)\n    at FindCursor._initialize (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/find_cursor.ts:72:44)\n    at FindCursor.cursorInit (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:684:32)\n    at FindCursor.fetchBatch (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:720:18)\n    at FindCursor.next (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/cursor/abstract_cursor.ts:398:18)\n    at Collection.findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongodb/src/collection.ts:506:30)\n    at NativeCollection.<computed> [as findOne] (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2602:45)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:45:17"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"23434r34dds\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"23434r34dds\" (type string) at path \"_id\" for model \"Genre\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"23434r34dds\" (type string) at path \"_id\" for model \"Genre\"\n    at SchemaObjectId.Object.<anonymous>.SchemaObjectId.cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/cast.js:379:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4868:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2265:10)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2589:8)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:46:17","stringValue":"\"23434r34dds\"","value":"23434r34dds","valueType":"string"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"23434r34dds\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"23434r34dds\" (type string) at path \"_id\" for model \"Genre\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"23434r34dds\" (type string) at path \"_id\" for model \"Genre\"\n    at SchemaObjectId.Object.<anonymous>.SchemaObjectId.cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.applySetters (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaObjectId.Object.<anonymous>.SchemaType.castForQuery (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/cast.js:379:32)\n    at model.Query.Object.<anonymous>.Query.cast (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4868:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2265:10)\n    at model.Query._findOne (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:2589:8)\n    at model.Query.exec (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/query.js:4412:80)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/routes/genres.js:49:17","stringValue":"\"23434r34dds\"","value":"23434r34dds","valueType":"string"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"_message":"Genre validation failed","errors":{"name":{"kind":"minlength","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","path":"name","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","minlength":5,"path":"name","type":"minlength","value":"1234"},"value":"1234"}},"level":"error","message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5). Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).","stack":"ValidationError: Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).\n    at model.Object.<anonymous>.Document.invalidate (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/document.js:3312:32)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/document.js:3073:17\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"_message":"Genre validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"level":"error","message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50). Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/document.js:3312:32)\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/document.js:3073:17\n    at /Users/lucianboboc/Downloads/10- Authentication and Authorization/before/vidly/node_modules/mongoose/lib/schemaType.js:1388:9\n    at processTicksAndRejections (node:internal/process/task_queues:85:11)"}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_test..."}
